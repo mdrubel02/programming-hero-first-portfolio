@@ -8,51 +8,51 @@
     justify-content: center;
 
 }
-.half-1{
-    width: 40%;
-    margin-left: 5%;
-    
-
+.half-1 {
+	width: 40%;
+	margin-left: 0%;
+	padding: 5% 8%;
 }
 .half-1 h1 {
 	font-family: 'Work Sans', sans-serif;
 	font-size: 70px;
-	margin-top: 30px;
+	
 }
 .half-1 h2 {
 	font-family: 'Work Sans', sans-serif;
 	font-size: 60px;
 	font-weight: 400px;
-	margin-top: 80px;
+	margin-top: 10%;
 }
 .half-1 h2 span{
     font-family: 'Work Sans', sans-serif;
     font-size: 60px;
     font-weight: 400px;
-    margin-top: 4px;
+    margin-top: px;
     color: aqua;
 }
 .half-1 h3{
     font-family: 'Roboto Mono', monospace;
     font-size: 25px;
     font-weight: 400px;
-    margin-top: 70px;
+    margin-top: 6%;
     
 }
 .half-2 img{
-    width: 100%;
+    width: 90%;
     padding: 10px 15px;
+    margin-top: 5%;
 }  
 
-.half-2{
-    width: 45%;
-    margin-left: 5%;
-   
+.half-2 {
+	width: 45%;
+	margin-top: 6%;
 }
-.half-1 p{
-    margin-top: 30px;
-    font-family: 'Raleway', sans-serif;
-    text-align: justify;
+.half-1 p {
+	margin-top: px;
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+	padding: 21px 1px;
 }
 .btn {
 	background-image: linear-gradient(to right, red , yellow);
@@ -75,4 +75,11 @@
 .top-banner{
     background-image: url(./imge/top-banner.png);
     background-repeat: no-repeat;
+}
+.mid-section{
+    background-image: url(./imge/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    
+    
 }
